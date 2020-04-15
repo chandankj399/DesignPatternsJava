@@ -8,6 +8,7 @@ public class LunchOrderBean {
 	private String condiments;
 	private String dressing;
 	private String meat;
+	
 	public String getBread() {
 		return bread;
 	}
